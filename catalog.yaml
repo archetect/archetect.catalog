@@ -1,0 +1,5 @@
+---
+entries:
+  - catalog:
+      description: "Archetype Starters"
+      source: https://github.com/archetect/archetype-starters.catalog.git
