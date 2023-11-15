@@ -1,5 +1,8 @@
 ---
 entries:
   - catalog:
+      description: "Rust"
+      source: https://github.com/archetect-rust/rust.catalog.git
+  - catalog:
       description: "Archetype Starters"
       source: https://github.com/archetect/archetype-starters.catalog.git
