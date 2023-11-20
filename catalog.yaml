@@ -6,3 +6,6 @@ entries:
   - catalog:
       description: "Archetype Starters"
       source: https://github.com/archetect/archetype-starters.catalog.git
+  - catalog:
+      description: "General Utilities"
+      source: https://github.com/archetect/utils.catalog.git
