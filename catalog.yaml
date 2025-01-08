@@ -7,6 +7,9 @@ entries:
       description: "Rust"
       source: https://github.com/archetect-rust/rust.catalog.git
   - catalog:
+      description: "Writing and Documentation"
+      source: https://github.com/archetect-writing/writing.catalog.git
+  - catalog:
       description: "Archetype Starters"
       source: https://github.com/archetect/archetype-starters.catalog.git
   - catalog:
