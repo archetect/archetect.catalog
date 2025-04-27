@@ -1,17 +1,17 @@
 ---
 requires:
-  archetect: 2.0.0-ALPHA.8
+  archetect: 2.0.0
 
 entries:
   - catalog:
       description: "Rust"
-      source: https://github.com/archetect-rust/rust.catalog.git
+      source: git@github.com:archetect-rust/rust.catalog.git
   - catalog:
       description: "Writing and Documentation"
-      source: https://github.com/archetect-writing/writing.catalog.git
+      source: git@github.com:archetect-writing/writing.catalog.git
   - catalog:
       description: "Archetype Starters"
-      source: https://github.com/archetect/archetype-starters.catalog.git
+      source: git@github.com:archetect-common/archetype-starters.catalog.git#v1
   - catalog:
       description: "General Utilities"
-      source: https://github.com/archetect/utils.catalog.git
+      source: git@github.com:archetect/utils.catalog.git
